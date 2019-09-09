@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MKP </string>
+    <string name="add_documents_with_scanner">Add Documents With Scanner</string>
+
+    <array name="Documents_Tracking">
+        <item>Invoice Acs</item>
+        <item>Invoice GJ</item>
+        <item>Invoice Delivery</item>
+        <item>Surat Jalan Acs</item>
+        <item>Surat Jalan</item>
+    </array>
+</resources>
